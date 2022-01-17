@@ -3,6 +3,8 @@ Hand drawn art work of a Sega Naomi Arcade cabinet and a profession of love.
 Work by Nelson Velez commisioned for Sega Naomi Candy Cabs FaceBook group
 https://www.facebook.com/groups/SegaNaomiCandyCabs
 
+<img src="https://github.com/ArcadeHustle/I_love_sega_naomi/raw/main/NNC%20original%20(Flipped%20CP).png"></img>
+
 These files are shared under CC BY-NC-SA 2.0 licensing. 
 https://creativecommons.org/licenses/by-nc-sa/2.0/
 
